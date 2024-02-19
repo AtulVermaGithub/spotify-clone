@@ -16,7 +16,7 @@ This project aims to recreate the core features and user interface of Spotify, a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/spotify-clone.git`
+1. Clone the repository: `git clone https://github.com/AtulVermaGithub/spotify-clone.git`
 
 
 ## Contributing
