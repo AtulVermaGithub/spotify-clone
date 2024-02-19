@@ -1,0 +1,33 @@
+.border-yellow {
+    border: 2px solid yellow;
+}
+
+.border {
+    border-radius: 8px;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.flex {
+    display: flex;
+}
+
+.bg-grey {
+    background-color: #121212;
+    color: white;
+}
+
+.m-2 {
+    margin: 2px;
+}
+
+.gap-1{
+    gap: 15px;
+}
+
+.a-center{
+    align-items: center;
+}
+
